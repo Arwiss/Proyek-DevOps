@@ -1,0 +1,4 @@
+Dalam proyek ini, kami membuat sebuah aplikasi sederhana dengan rincian berikut : 
+Mengelola kode sumbernya menggunakan GitHub, Mengemas aplikasi tersebut ke dalam kontainer menggunakan Docker, Mengunggah gambar kontainer tersebut ke Docker Hub.
+Setiap anggota kelompok membagi peran masing-masing :
+Anggota A : (Project Manager dan GitHub Manager), Anggota B : (Developer dan Docker Specialist), Anggota C : (Documentation Specialist dan Docker Hub Manager).
